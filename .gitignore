@@ -1,0 +1,29 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## PROJECT::GENERAL
+coverage
+rdoc
+pkg
+Gemfile.lock
+
+## PROJECT::SPECIFIC
+
+/spec/internal
+.internal_test_app
+/jetty
+/pkg
+/tmp
+/.bundle
